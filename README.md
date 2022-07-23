@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning operating system and programing language theory.   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Silence&layout=compact)](https://github.com/Blue-Silence/github-readme-stats)
+![Blue-Silence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Silence&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Silence&layout=compact)](https://github.com/Blue-Silence/github-readme-stats)   
