@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning operating system and programing language theory.
+🌱 I’m currently learning operating system and programing language theory.   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Silence&layout=compact)](https://github.com/Blue-Silence/github-readme-stats)
