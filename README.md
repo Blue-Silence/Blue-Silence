@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I’m an undergraduate in Tongji University.  
 I’m currently learning operating system, distributed system, computer architecture and programing language theory.  
-Feel free to interrupt me~ I don't bite!(At least most of the time)
+Feel free to interrupt me~ I don't bite!(At least most of the time)  
 ![Blue-Silence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Silence&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Silence&layout=compact)](https://github.com/Blue-Silence/github-readme-stats)   
