@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m an undergraduate in Tongji University.  
-I’m currently learning operating system, distributed system, computer architecture and programing language theory.  
+I’m an undergraduate in software engineering, Tongji University. 
+Currently, I am a research intern in National University of Singapore.  
+I’m interested in computer system areas, esepcially operating system, distributed system and computer architecture, and also attracted by programing language theory.  
 If you may, some advice on learning and working on systems and architecture would be great.  
 Feel free to interrupt me~ I don't bite!(At least most of the time)  
-![Blue-Silence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Silence&show_icons=true&theme=tokyonight)
+[![Blue-Silence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Silence&count_private=true&show_icons=true)](https://github.com/Blue-Silence/github-readme-stats)
+- ![Blue-Silence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Silence&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Silence&layout=compact)](https://github.com/Blue-Silence/github-readme-stats)   
