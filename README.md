@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m an undergraduate in software engineering, Tongji University. 
+I’m an undergraduate in software engineering, Tongji University.  
 Currently, I am a research intern at National University of Singapore and University of Pennsylvania.  
 I’m interested in computer system areas, especially network system and distributed system.  
 
